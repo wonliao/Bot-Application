@@ -43,7 +43,7 @@ public static async Task<object> Run(HttpRequestMessage req, TraceWriter log)
 				    {
 					    //ImageTemplate(reply, activity.Attachments.First().ContentUrl);
 					   
-					  
+					    // test
                
 				    }
 				    else
